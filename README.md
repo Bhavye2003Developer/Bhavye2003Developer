@@ -22,6 +22,12 @@ Here are some of the technologies and tools I work with:
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+
+## 📊 Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavye2003Developer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 🌟 Let's Connect
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavye-jain-8980ab255/)
