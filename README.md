@@ -24,8 +24,8 @@ Here are some of the technologies and tools I work with:
 
 ## 🌟 Let's Connect
 
-- LinkedIn: [Bhavye](https://www.linkedin.com/in/bhavye-jain-8980ab255/)
-- Discord: CyberGod#2080
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavye-jain-8980ab255/)
+- [![Discord](https://img.shields.io/badge/Discord-CyberGod#2080-7289da?logo=discord&logoColor=white)](https://discord.com/users/Unstoppable2003)
 
 ## 🎉 Thank you for visiting!
 
