@@ -1,4 +1,4 @@
-# Hi there, I'm Bhavye! (https://media.giphy.com/media/8Q9NY4kmKj2oB1lkMt/giphy.gif)
+# Hi there, I'm Bhavye! ![Wave](https://media.giphy.com/media/8Q9NY4kmKj2oB1lkMt/giphy.gif)
 
 I'm a passionate Android and Machine Learning developer with over 1 year of experience. I love building innovative solutions that leverage the power of technology to solve real-world problems.
 
