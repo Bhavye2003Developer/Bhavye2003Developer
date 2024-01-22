@@ -4,7 +4,7 @@ I'm a passionate Android and Machine Learning developer with over 1 year of expe
 
 ## 🚀 About Me
 
-- 💻 Android Developer | 🤖 Machine Learning Enthusiast
+- 🤖 Machine Learning Enthusiast
 - 🎓 Computer Science Graduate
 - 🔍 Always exploring new technologies and frameworks
 
