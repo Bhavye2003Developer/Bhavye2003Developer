@@ -1,5 +1,5 @@
 
-# Hi there, I'm Bhavye! 👋
+# Hi, I'm Bhavye! 👋
 
 I'm a passionate Full-Stack Developer and AI enthusiast currently working at **PwC**, with expertise spanning web development, mobile apps, and machine learning. I love experimenting with cutting-edge technologies and building solutions that push the boundaries of what's possible.
 
