@@ -20,7 +20,6 @@ I'm a passionate Full-Stack Developer and AI enthusiast currently working at **P
 
 **AI/ML & Tools:** ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/-Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-[![Bhavye2003Developer's GitHub | Stats](https://stats.quine.sh/Bhavye2003Developer/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Bhavye2003Developer)
 ## 🎯 Current Focus
 
 -   🏗️ **Building** open-source developer tools like [Easeforms](https://github.com/Bhavye2003Developer/EaseForms_v2)
