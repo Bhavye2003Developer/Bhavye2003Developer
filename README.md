@@ -1,4 +1,3 @@
-
 # Hi, I'm Bhavye! 👋
 
 I'm a passionate Full-Stack Developer and AI enthusiast currently working at **PwC**, with expertise spanning web development, mobile apps, and machine learning. I love experimenting with cutting-edge technologies and building solutions that push the boundaries of what's possible.
@@ -21,10 +20,8 @@ I'm a passionate Full-Stack Developer and AI enthusiast currently working at **P
 **AI/ML & Tools:** ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/-Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ## 🎯 Current Focus
-
--   🏗️ **Building** open-source developer tools like [Easeforms](https://github.com/Bhavye2003Developer/EaseForms_v2)
 -   🤖 **Experimenting** with various LLMs and AI integration patterns
--   📚 **Learning** advanced system design and cloud architecture
+-   📚 **Learning** system design and cloud architecture
 
 ## 🌟 Let's Connect
 
