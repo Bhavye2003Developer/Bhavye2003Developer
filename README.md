@@ -27,7 +27,3 @@ I'm a passionate Full-Stack Developer and AI enthusiast currently working at **P
 
 -   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavye-jain-8980ab255/)
 -   [![Discord](https://img.shields.io/badge/Discord-CyberGod#2080-7289da?logo=discord&logoColor=white)](https://discord.com/users/Unstoppable2003)
-
-## 🎉 Thank you for visiting!
-
-Feel free to explore my repositories and check out my latest projects. Always open to collaborating on interesting tech challenges and discussing the latest in AI/ML! 🚀
